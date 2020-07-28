@@ -1,0 +1,17 @@
+1- VOCÊ DEVE CRIAR UMA CONTA NOVA NO SITE DO NGROK OFICIAL.
+
+2- USE VPN  PEGA MAIS RÁPIDO..
+
+3- VA NO ARQUIVO DO NGROK DE UM chmod +x 'nome do arquivo sem aspas'
+
+4- PRA ATIVAR OU TESTAR O NGROK VC USA E TESTA ASSIM: ngrok http ou tcp 8888 exemplo: ngrok http 8080 ou ngrok tcp 4444 ou ngrok http 3333
+
+5-aproveite se vc não conseguiu estão esse manual ele está desatualizado ou vc não entendeu ou errou algo então vá no YouTube ou google e aprenda a usar o ngrok.
+
+6-CRIADOR: IGOR OLIVEIRA 
+DATA DE CRIAÇÃO DO MANUAL 28/07/2020
+IDADE DO CRIADOR: INDISPONÍVEL. 
+USE COM PACIÊNCIA
+IMPOSSÍVEL DA ERRO JÁ FOI TESTADO POR CERCA DE 2.000 PESSOAS
+E CONTINUAM TESTANDO,  SE DE ERRO VC DEVE TER FEITO ALGO ERRADO TENTE NOVAMENTE.
+
